@@ -1,0 +1,46 @@
+{
+  "name": "graceful",
+  "about_url": "https://meta.discourse.org/t/a-graceful-theme-for-discourse/93040/1",
+  "license_url": "https://meta.discourse.org/t/a-graceful-theme-for-discourse/93040/1",
+  "assets": {
+    "default-background": "assets/sayagata-400px.png"
+  },
+  "color_schemes": {
+    "MetaEngine": {
+      "primary": "141414",
+      "secondary": "ffffff",
+      "tertiary": "679eff",
+      "quaternary": "679eff",
+      "header_background": "ffffff",
+      "header_primary": "333333",
+      "highlight": "d4efd8",
+      "danger": "c80001",
+      "success": "009900",
+      "love": "fa6c8d"
+    },
+    "Graceful": {
+      "primary": "333",
+      "secondary": "ffffff",
+      "tertiary": "88af8e",
+      "quaternary": "88af8e",
+      "header_background": "ffffff",
+      "header_primary": "333333",
+      "highlight": "d4efd8",
+      "danger": "f8745c",
+      "success": "41e254",
+      "love": "fa6c8d"
+    },
+    "Graceful Dark": {
+      "primary": "c4cfc5",
+      "secondary": "445446",
+      "tertiary": "88af8e",
+      "quaternary": "88af8e",
+      "header_background": "212821",
+      "header_primary": "ffffff",
+      "highlight": "7e9280",
+      "danger": "f8745c",
+      "success": "41e254",
+      "love": "fa6c8d"
+    }
+  }
+}
