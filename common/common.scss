@@ -404,3 +404,12 @@ span.user-title {
 noscript > #main-outlet {
   padding-top: 6em;
 }
+
+.nav-item_subscribe a {
+  background-color: #fddb67;
+
+  &:hover {
+    background-color: #fddb67 !important;
+    color: var(--primary) !important;
+  }
+}
