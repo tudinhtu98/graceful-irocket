@@ -414,6 +414,7 @@ noscript > #main-outlet {
   }
 }
 
+a .btn-primary,
 .btn-primary {
-  color: var(--primary);
+  color: var(--primary) !important;
 }
